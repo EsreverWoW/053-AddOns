@@ -6,7 +6,7 @@ SetCVar("debugTargetInfo", EsUI.C.Tooltips.debug_target_info and 1 or 0)
 ----------------------------------------------------------------------------------------
 --	GUID
 ----------------------------------------------------------------------------------------
-SetCVar("showGUIDs", EsUI.C.Tooltips.debug_target_info and 1 or 0)
+SetCVar("showGUIDs", EsUI.C.Tooltips.guid and 1 or 0)
 
 ----------------------------------------------------------------------------------------
 --	Add ID
